@@ -1,0 +1,70 @@
+Tech Articles
+Week 1
+6/23/2015
+
+http://www.cnet.com/news/lenovo-unveils-130-pc-on-a-stick/
+
+Levono 130 PC on a Stick - Computer on a stick. Ideal for consumers that want enough computing power to play games, surf the Web and chat via video without purchasing a pricey laptop or tablet. And it's the size of a USB!
+
+"On Tuesday, the popular PC vendor announced its latest creation -- a PC on a stick. Starting at $130, the new Ideacentre Stick 300 is designed to deliver the performance of a Windows PC but in a bite-sized portion. The mini-PC is only 3.94 inches wide, 1.5 inches deep and .59 inches high, so it's not much larger than your average USB stick.
+
+Why a PC on a stick? Portability is the main draw. You can carry the Ideacentre Stick 300 with you on the go and plug it into any TV or PC monitor with an HDMI port to run its onboard applications and access your files. Beyond that, the idea is to offer consumers a device with enough computing power to let you play games, surf the Web and chat with friends via video without having to purchase a pricey tablet or laptop.
+
+Ouyang, Lenovo's general manager for Worldwide Desktop and Visuals, said in a press release. 'Our goal with the Ideacentre Stick 300 is to give those users a sense of freedom and enhanced mobility, while packing a serious punch in a small device.'"
+
+
+http://www.cnet.com/products/google-cardboard/
+
+Google Cardboard - Awesome tool for Virtual Reality. Great for classroom trips and learning at a cheaper price.
+
+"The latest version of Google Cardboard, by contrast, is a glorified cardboard phone case that uses a pair of glass lenses and an app to drive your virtual reality experience. It will work with just about any Android or iOS smartphone, and set you back $30 -- or however long it takes you to root through your garage or basement for the right parts.
+
+The Cardboard experience is driven by the apps you'll find on Google Play or Apple's App store.
+
+That's precisely why Google Cardboard is so cool. It's an ambassador, a gateway to this mysterious world of virtual reality that a few folks keep talking about, but most of us haven't experienced. And it's packed into an approachable little package: light, cheap and goofy enough to be approachable.
+
+Did I mention it's cheap? With Google Expeditions, educators will have a relatively inexpensive way to take their classroom on a quick trip to the Grand Canyon, or the Louvre. You can send your friends to space, or send your kids to Mars. You can leave Cardboard on a shelf, like I have, and blow the mind of every friend who's a little curious about that little box with the Google logo on it ."
+
+http://www.cnet.com/news/google-unveils-smart-wristband-for-health-tracking-but-its-not-for-consumers/
+
+Google Smartwatch - Smartwatch for patients to wear during checkups that monitor and log important information.
+
+"Google's latest device is aimed at letting doctors know how you're doing, even between checkups.
+
+The company unveiled on Tuesday a new sensor-packed wristband, meant to collect information on vital signs for medical professionals. The device will measure pulse, heart rhythm and skin temperature, as well as things like light exposure and noise levels. Bloomberg earlier reported the news.
+
+Instead, the aim is for patients to wear the band during clinical trials and drug tests, so the data can be used by medical researchers and physicians. The idea is for doctors to get a complete picture of patients' activity as it relates to their health, even if they rarely come in for an examination. "Our hope is that this technology could unlock a new class of continuous, medical-grade information that makes it easier to understand these patterns and manage serious health conditions," Andy Conrad, head of Google's life sciences team, said in a statement."
+
+http://www.cnet.com/news/microsoft-office-apps-arrive-for-free-on-android-smartphones-finally/
+
+Free Microsoft Office Apps - Microsoft Office now offers free apps for Android users!
+
+"Don't own an iPhone or Windows Phone, but rely on Microsoft's Office for writing, building presentations and crunching numbers? No problem.
+
+Microsoft's venerable suite of applications, including Word, PowerPoint and Excel, is finally making its way onto smartphones powered_ by Google's Android mobile operating system, Microsoft said Wednesday.
+
+Maybe best of all, the apps -- like their counterparts on Android tablets and devices running Apple's iOS operating system -- are free to download."
+
+http://www.digitaltrends.com/cars/divergent-microfactories-3d-printed-supercar-blade/#/5
+
+3D Printed Car - Car made out of 3D printed materials. Great way to save resources, energy and save the environment!
+
+"The world’s automakers are going to build 4 billion cars in the next 30 years. That number is staggering enough on its own, but when we stop to consider what that means in resources, energy and environmental impact, the effort required seem almost incomprehensible.
+
+Enter Divergent Microfactories, and its prototype supercar the Blade. It may have lines from Tron and a 700 horsepower bi-fuel engine, but the real story behind the Blade is how it’s built. The prototype supercar makes use of a revolutionary new type of modular, 3D-printed construction. And it could pave the way for all automotive manufacturing to come."
+
+http://www.engadget.com/2015/06/25/redefining-the-purity-ring/
+
+STD Testing Purity Ring - Ring created to test wearer of STDs. The hope is to offer testing at very low prices to those in need.
+
+"That's why the idea of this purity ring is so attractive, since it'll bring the technology out of the clinic and the lab and into the home. So far, the company has the technology in rough form, but is now working on shrinking it down into a finger-friendly form factor. Hardware-wise, the majority of the ring contains a battery that'd be re-juiced on a charging plate or dock, as well as a wireless module that's currently being worked on. Although the company has stressed that the communications chip will categorically "not be Bluetooth."
+
+Where the ring setting would ordinarily sit is a void where a user can slide in the "lab on a chip" cartridge. Inside this single-use unit is a needle and a testing kit that'll look for the various antibodies produced by these common diseases. Chemicals inside the device then denature the blood, enabling you to throw the unit straight into the trash rather than treating it as biological waste. Within a few seconds of the blood being drawn, a diagnosis is sent to your smartphone's companion app, that'll tell you if you have anything, what you have, and send you directions to your nearest clinic."
+
+http://www.fastcompany.com/3038705/would-you-pay-500-for-intels-snakeskin-wrapped-smart-bracelet
+
+Fashion Meets Wearable Technology - Bracelet with some techy aspects to it for around $500. The concepts seems to be to offer wearable technology without compromising fashion.
+
+"Back in September, Opening Ceremony and Intel took the wraps off MICA, their collaborative snakeskin-wrapped smart bracelet. But they left many details hanging in the air—most glaringly of all, how much this high-fashion, high-tech accessory would cost. But now that we're on the verge of the holiday shopping season, the two companies have released more details of MICA, short for My Intelligent Communication Accessory. For starters, the bracelet will retail for $495 and come with two years of AT&T data.
+
+So as the MICA starts to roll out, it will be interesting to see whether customers gravitate toward or away from its $495 price tag. According to the company, the device will be capable of receiving text messages, as well as notifications from Google and Facebook; for such features, will consumers see the price tag as agreeable or as sticker shock?"
